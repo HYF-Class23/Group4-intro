@@ -1,4 +1,5 @@
-👋 Hi, I am Smita. I have done my studies from **India.** I like to spent free
+# 👋 Hi, I am Smita. I have done my studies from **India.** I like to spent free
+
 time with my family and nature. I am positive thinker & hopeful about the
 future. I believe that things will workout for the best in the end👍. I would
 like to be a good web developer and for that i need to learn more programming
